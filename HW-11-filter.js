@@ -1,4 +1,5 @@
 //filter multiple of 5
+
 let arr = [4, 10, 8, 100, 15, 73, 9, 14];
 
 function filter(arr, func){
